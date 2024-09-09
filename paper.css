@@ -1,0 +1,67 @@
+*{margin:0px;
+padding:0px;
+text-align: center;}
+h1{background-color:#1d3557 ;
+color:#f5cac3;
+height:5rem;
+ line-height: 5rem;}
+/* kabhi bhi text vertically centre me lana ho to uski line height ko height ke equal set kardo */
+.choices{height:200px;
+width:200px;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 50%;}
+
+.choices:hover{cursor: pointer;
+background-color: rgb(85, 83, 83);}
+
+img{height:150px;
+width:150px;
+border-radius: 50%;
+}
+.choice{display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 4rem;
+gap:3rem;}
+.score-board{display: flex;
+justify-content: center;
+gap: 3rem;
+}
+.score{font-size: 2rem;
+font-weight: 600;}
+.mssg-container{margin-top: 2rem;
+}
+#mssg{font-size:2rem ;
+    font-weight: 700;
+    padding:1rem;
+    border-radius: 1rem;
+    display:inline;
+    color:beige;
+    background-color: black;}
+/* display inline isliye kra taki jitne me content hai sirf utne ka background color change ho */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

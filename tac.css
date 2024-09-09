@@ -1,0 +1,80 @@
+*{margin:0px;
+    padding:0px;
+}
+body{background-color: #004346;
+    text-align: center;
+}
+h1{color:#ece4b7;}
+.container{height:70vh;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;}
+.game{height:60vmin;
+width:60vmin;
+display:flex;
+flex-wrap:wrap;
+justify-content: center;
+align-items: center; 
+background-color:#172a3a;
+gap:1vmin;
+}
+/* 60 vim mtlb ho gya ki 70 % agar container ki height to usme 60 % parcent game ki hai.
+aur kyuki tic tac toe me 3 row aur 3 coloumns chahiye is liye har box ki height aur width
+ 20vmin ya usse kam ho tabhi har row aur har column me 3 box a payenge.kyuki div jiske
+  andar boxes hai uski height 60 vmin hai  */
+.box{height:18vmin;
+width:18vmin;
+background-color: #09bc8a;
+border-radius: 2px;
+font-size:10vmin;
+color:#ece4b7;
+}
+#reset{background-color: rgb(53, 52, 52);
+    color:aliceblue;
+    font-size:1.5rem;
+}
+.msg-container{height:90vmin;
+display:flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+gap:2rem;
+}
+#mssg{color:azure;
+font-size:2.5rem} 
+#newgame{background-color: rgb(53, 52, 52);
+color:aliceblue;
+font-size:1.5rem;}
+.hide{display:none}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

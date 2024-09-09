@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../HTML TUTORIAL"
+		},
+		{
+			"path": "../java"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "java"
+	}
+}
