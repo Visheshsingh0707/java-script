@@ -1,4 +1,4 @@
 # java-script
 <br>
-Author-Vishesh Singh
+-Vishesh Singh
  
